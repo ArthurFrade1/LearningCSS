@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(131, 131, 202);
+    font-family: Constantia;
+    text-align: center;
+}
+section{
+    
+    text-align: left;
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    border-radius: 3%;
+    margin: auto;
+}
+
+#birth{
+    margin-left: 10px;
+    padding-top: 20px;
+}
+
+#verifica{
+    background-color: rgb(131, 131, 202);;
+    margin-left: 40%;
+    margin-top: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sexo{
+    margin-left: 10px;
+}
+
+#imagem{
+    margin-left: 30%;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+#fala{
+    text-align: center;
+}

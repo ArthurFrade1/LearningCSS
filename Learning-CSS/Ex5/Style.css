@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(185, 189, 126);
+    font-family: Constantia;
+    text-align: center;
+    color: white
+   
+}
+
+h1{
+    margin-top: 50px;
+}
+
+section{
+    margin-left: 100px;
+    margin-top: 25px;
+    background-color: white;
+    height: 250px;
+    width: 400px;
+    border-radius: 3%;
+    margin: auto;
+}
+
+#image{
+    margin: auto;
+   height: 180px;
+   width: 180px;
+   border-radius: 50%;
+    
+}
+
+#horario{
+    padding-top: 15px;
+    font-family:Arial;
+    color: black;
+}

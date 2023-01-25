@@ -1,0 +1,19 @@
+body{
+    background: yellow;
+}
+
+#tal, #teste{
+    color: blue;
+}
+
+.grande{
+    font: normal 15pt Arial
+}
+
+p{
+    font: normal 12pt Constantia;
+}
+
+h1{
+    text-align: center;
+}
